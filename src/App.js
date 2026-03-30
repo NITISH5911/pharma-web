@@ -92,7 +92,7 @@ function App() {
         </div>
         <div className="nav-links">
           <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer" className="hover-underline">LinkedIn</a>
-          <a href="https://yourportfolio.com" target="_blank" rel="noreferrer" className="hover-underline">Portfolio</a>
+          <a href="https://portfolio-of-nitish.vercel.app/" target="_blank" rel="noreferrer" className="hover-underline">Portfolio</a>
           <a href="https://www.instagram.com/" target="_blank" rel="noreferrer" className="hover-underline">Instagram</a>
         </div>
       </nav>
